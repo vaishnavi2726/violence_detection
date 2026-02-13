@@ -18,6 +18,11 @@ The system follows this pipeline:
 
 🔎 Violence Prediction
 
+
+
+
+
+
 🗂️ Project Structure
 violence_detection/
 │
@@ -30,6 +35,12 @@ violence_detection/
 ├── violence_model.pkl
 ├── README.md
 └── .gitignore
+
+
+
+
+
+
 
 ⚙️ Installation
 1️⃣ Clone the Repository
