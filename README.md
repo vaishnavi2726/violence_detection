@@ -23,18 +23,20 @@ The system follows this pipeline:
 
 
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+
+```text
 violence_detection/
-│
-├── step2_video_read.py
-├── step4_motion_detection.py
-├── step5_feature_extraction.py
-├── step6_train_model.py
-├── step7_predict_video.py
-├── scaler.pkl
-├── violence_model.pkl
-├── README.md
-└── .gitignore
+├── step2_video_read.py         
+├── step4_motion_detection.py   
+├── step5_feature_extraction.py  
+├── step6_train_model.py        
+├── step7_predict_video.py      
+├── scaler.pkl                 
+├── violence_model.pkl          
+├── README.md                   
+└── .gitignore                  
+
 
 
 
